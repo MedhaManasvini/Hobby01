@@ -33,6 +33,7 @@ body{
 ul{
   color: #673AB7;
   font-family: 'Sriracha', cursive;
+  display: inline;
 }
 .list:hover {
     background-color: white;
